@@ -8,5 +8,5 @@ running time of rpart function
 confusion matrix
 
 pred     f     m
-   f 16848     0
-   m     0 25031
+   f  16848     0
+   m     0   25031
